@@ -1,8 +1,9 @@
 - 👋 Hi, I’m EJAD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 A junior frontend developer and programer
+- 👀 I am interested in web development especially in javascript / jQuery
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on Web Development Projects
+- 📫 Hit me on edoumeyan@gmail.com
 
 <!---
 Ejad1/Ejad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
