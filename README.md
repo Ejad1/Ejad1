@@ -1,6 +1,6 @@
 - 👋 Hi, I’m EJAD
 - 🌱 A junior frontend developer and programer
-- 👀 I am interested in web development especially in React js
+- 👀 I am interested in web development mainly in the functionalities of a site or a web platform
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 Hit me on edoumeyan@gmail.com
