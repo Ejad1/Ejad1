@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ejad1" alt="ejad1" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS and Express JS**
+- 🌱 I’m currently learning **Data engineering skills**
 
-- 🌱 A **junior frontend developer and python programer**
+- 🌱 A **junior React JS developer and future data engineer**
 
-- 👀 I am interested in **web development mainly in the functionalities of a site or a web platform**
+- 👀 I am interested in **any work related to data collection, processing and analysis**
 
-- 💞️ I’m looking to **collaborate on Web Development and AI Projects**
+- 💞️ I’m looking to **collaborate on AI and data engineering projects**
 
 - 📫 Hit me on **edoumeyan@gmail.com**
 
