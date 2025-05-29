@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EJAD</h1>
-<h3 align="center">A passionate web developer and IA student from Togo</h3>
+<h3 align="center">A passionate IA and data engineering student from Togo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejad1&label=Profile%20views&color=0e75b6&style=flat" alt="ejad1" /> </p>
 
