@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm EJAD</h1>
-<h3 align="center">A passionate IA and data engineering student from Togo</h3>
+<h3 align="center">A passionate IA and data engineer from Togo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejad1&label=Profile%20views&color=0e75b6&style=flat" alt="ejad1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ejad1" alt="ejad1" /></a> </p>
 
-- 🌱 I’m currently learning **Data engineering skills**
+- 🌱 I’m currently learning **Data engineering and AI agent designer skills**
 
-- 🌱 A **junior React JS developer and future data engineer**
+- 🌱 A **junior data engineer and AI agent designer**
 
-- 👀 I am interested in **any work related to data collection, processing and analysis**
+- 👀 I am interested in **any work related to data collection, processing and analysis and of course building robust agents**
 
 - 💞️ I’m looking to **collaborate on AI and data engineering projects**
 
-- 📫 Hit me on **edoumeyan@gmail.com**
+- 📫 Hit me on **edoumeyan@gmail.com** or **ejad0323@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
