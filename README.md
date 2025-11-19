@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ejad1" alt="ejad1" /></a> </p>
 
-- 🌱 I’m currently learning **Data engineering and AI agent designer skills**
+- 🌱 I’m currently learning **Data engineering and AI agent conception skills**
 
 - 🌱 A **junior data engineer and AI agent designer**
 
