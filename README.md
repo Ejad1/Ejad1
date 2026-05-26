@@ -13,7 +13,7 @@
 
 - 💞️ I’m looking to **collaborate on AI and data engineering projects**
 
-- 📫 Hit me on **edoumeyan@gmail.com** or **ejad0323@gmail.com**
+- 📫 Hit me on **edoumeyan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
