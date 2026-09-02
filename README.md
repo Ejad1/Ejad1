@@ -29,9 +29,9 @@ I design, build and ship **AI systems powered by LLMs, RAG and autonomous agents
 | [**Émɔ**](https://emo.ejad.online) | End-to-end data → AI product: real testimonies turned into an entrepreneurship simulation |
 | [**EliA**](https://elia.ejadagents.com/) | Biblical RAG assistant, evaluated continuously with RAGAS |
 | [**AFI**](https://fabio-immobilier.vercel.app/) | Real estate chatbot, scoped and simple by design |
-| [**Seed AI**](https://seed-ai.org) | Pan-African AI studio I co-founded — Siava, Esaaka and custom AI agent work |
+| [**Seed AI**](https://seed-ai.org) | Pan-African AI startup I co-founded — Siava, Esaaka and custom AI agent work |
 
-📄 Peer-reviewed research on African language modeling — [OpenReview](https://openreview.net)
+📄 Peer-reviewed research on African language modeling — [OpenReview](https://openreview.net/forum?id=1IbnHVyJDj)
 
 ### 🛠️ Stack
 
